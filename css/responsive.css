@@ -1,0 +1,880 @@
+@media (max-width: 1399.98px) {
+  header {
+    margin-bottom: 60px;
+  }
+
+  .main-hero .inner {
+    height: unset;
+  }
+  .main-hero .inner .content {
+    padding: 117px;
+    padding-right: 0;
+  }
+  .main-hero .inner .content h4 {
+    font-size: 24px;
+  }
+  .main-hero .inner .content p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 15px;
+  }
+  .main-hero .inner .content a.white-btn {
+    height: 50px;
+    font-size: 16px;
+  }
+  .main-hero .inner .image {
+    padding-bottom: unset;
+    background-size: cover;
+    height: 700px;
+  }
+
+  section.services h2 {
+    font-size: 54px;
+  }
+  section.services .content {
+    position: relative;
+  }
+  section.services .content .bg-text {
+    font-size: 380px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  section.services .content .row {
+    align-items: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-image: url("../images/table-border.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+  section.services .content .row:last-child {
+    background-image: unset;
+  }
+  section.services .content .inner-text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  section.services .content .inner-text h4 {
+    justify-content: start;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  section.services .content .inner-text p {
+    width: 100%;
+    line-height: 20px;
+  }
+}
+@media (max-width: 1199.98px) {
+  .main-hero .inner {
+    height: unset;
+  }
+  .main-hero .inner .content {
+    padding: 76px;
+    padding-right: 0;
+  }
+  .main-hero .inner .content h4 {
+    font-size: 24px;
+  }
+  .main-hero .inner .content p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 15px;
+  }
+  .main-hero .inner .content a.white-btn {
+    height: 50px;
+    font-size: 16px;
+  }
+  .main-hero .inner .image {
+    padding-bottom: unset;
+    background-size: cover;
+    height: 630px;
+  }
+}
+@media (max-width: 991.98px) {
+  section.tolsis-software .image-container {
+    position: relative;
+    min-height: 300px;
+    margin-bottom: 50px;
+  }
+  section.tolsis-software .image-container .img {
+    background-image: url("../images/leftBg.png");
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100vw;
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-position: right center;
+    border-radius: 30px;
+  }
+  section.tolsis-software .text-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  section.tolsis-software .text-container .text-content {
+    margin-bottom: 40px;
+    padding-left: 20px;
+  }
+  section.tolsis-software .text-container .text-content:last-child {
+    margin-bottom: 0;
+  }
+  section.tolsis-software .text-container .text-content h4 {
+    font-size: 26px;
+    color: #404040;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  section.tolsis-software .text-container .text-content p {
+    font-size: 17px;
+    color: #404040;
+    font-weight: 500;
+    line-height: 24px;
+  }
+
+  section.services h2 {
+    font-size: 54px;
+  }
+  section.services .content {
+    position: relative;
+  }
+  section.services .content .bg-text {
+    font-size: 380px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  section.services .content .row {
+    align-items: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-image: url("../images/table-border.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+  section.services .content .row:last-child {
+    background-image: unset;
+  }
+  section.services .content .inner-text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  section.services .content .inner-text h4 {
+    justify-content: start;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  section.services .content .inner-text p {
+    width: 100%;
+    line-height: 20px;
+  }
+
+  .main-hero .inner {
+    height: unset;
+  }
+  .main-hero .inner .content {
+    padding: 40px;
+    padding-right: 0;
+  }
+  .main-hero .inner .content h4 {
+    font-size: 24px;
+  }
+  .main-hero .inner .content p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 15px;
+  }
+  .main-hero .inner .content a.white-btn {
+    height: 50px;
+    font-size: 16px;
+  }
+  .main-hero .inner .image {
+    padding-bottom: unset;
+    background-size: cover;
+    height: 500px;
+  }
+
+  footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-size: cover;
+    padding-bottom: 40px;
+  }
+  footer .b-right {
+    display: none;
+  }
+  footer .footer-logo {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  footer .footer-text {
+    text-align: center;
+    display: block;
+    padding-right: 0;
+    position: relative;
+    margin-bottom: 60px;
+  }
+  footer .footer-text h4 {
+    font-weight: bold;
+    font-size: 34px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  footer .footer-text a.footerBtn {
+    height: 55px;
+    color: #1e405a;
+    font-size: 20px;
+    padding: 0 40px;
+    border-radius: 12px;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    font-weight: bold;
+    justify-content: center;
+    transition: all ease 0.3s;
+    margin-bottom: 10px;
+  }
+  footer .footer-text a.footerBtn:hover {
+    background-color: #1e405a;
+    color: #fff;
+  }
+  footer .footer-text p {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+  }
+  footer .footer-text p b {
+    font-weight: bold;
+    display: block;
+    margin-top: 5px;
+  }
+  footer ul {
+    margin-bottom: 30px;
+  }
+  footer ul li {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  footer ul li:last-child {
+    margin-bottom: 0;
+  }
+  footer ul li a {
+    font-weight: 400;
+    color: inherit;
+  }
+  footer ul li a:hover {
+    color: #fff;
+  }
+}
+@media (max-width: 767.98px) {
+  .go-down {
+    margin-bottom: 100px;
+  }
+
+  header .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 40px;
+  }
+  header ul {
+    column-gap: 20px;
+    justify-content: center;
+  }
+  header ul li a {
+    font-size: 18px;
+    margin: 0;
+  }
+
+  .main-hero .inner {
+    height: unset;
+  }
+  .main-hero .inner .content {
+    padding: 40px;
+    padding-right: 0;
+  }
+  .main-hero .inner .content h4 {
+    font-size: 24px;
+  }
+  .main-hero .inner .content p {
+    font-size: 18px;
+    line-height: 26px;
+    margin-bottom: 15px;
+  }
+  .main-hero .inner .content a.white-btn {
+    height: 50px;
+    font-size: 16px;
+  }
+  .main-hero .inner .image {
+    padding-bottom: unset;
+    background-size: cover;
+    height: 500px;
+  }
+
+  section.services h2 {
+    font-size: 54px;
+  }
+  section.services .content {
+    position: relative;
+  }
+  section.services .content .bg-text {
+    font-size: 380px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  section.services .content .row {
+    align-items: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-image: url("../images/table-border.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+  section.services .content .row:last-child {
+    background-image: unset;
+  }
+  section.services .content .inner-text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  section.services .content .inner-text h4 {
+    justify-content: start;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  section.services .content .inner-text p {
+    width: 100%;
+    line-height: 20px;
+  }
+
+  .button-area {
+    flex-direction: row;
+  }
+  .button-area a {
+    margin-bottom: 30px;
+  }
+
+  section.teams h2 {
+    font-size: 54px;
+  }
+  section.teams h2:before {
+    content: "";
+    background-image: url("../images/team_bg.png");
+    width: 226px;
+    height: 72px;
+    position: absolute;
+    z-index: -1;
+  }
+  section.teams p {
+    font-size: 16px;
+    color: #404040;
+    font-weight: 400;
+    line-height: 33px;
+  }
+  section.teams .human-list {
+    width: 100%;
+    padding: 100px 0;
+  }
+  section.teams .human {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+  section.teams .human img {
+    width: 100%;
+    height: auto;
+    object-fit: unset;
+    margin-bottom: 30px;
+  }
+  section.teams .human h4 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #404040;
+  }
+  section.teams .human p {
+    font-size: 24px;
+    color: #404040;
+    font-weight: 400;
+  }
+
+  section.tolsis-software h2 {
+    font-size: 42px;
+  }
+  section.tolsis-software h2:before {
+    content: "";
+    background-image: url("../images/tolsis_software.png");
+    width: 529px;
+    height: 23px;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+  }
+  section.tolsis-software .image-container {
+    position: relative;
+    min-height: 300px;
+    margin-bottom: 50px;
+  }
+  section.tolsis-software .image-container .img {
+    background-image: url("../images/leftBg.png");
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100vw;
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-position: right center;
+    border-radius: 30px;
+  }
+  section.tolsis-software .text-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  section.tolsis-software .text-container .text-content {
+    margin-bottom: 40px;
+    padding-left: 20px;
+  }
+  section.tolsis-software .text-container .text-content:last-child {
+    margin-bottom: 0;
+  }
+  section.tolsis-software .text-container .text-content h4 {
+    font-size: 26px;
+    color: #404040;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  section.tolsis-software .text-container .text-content p {
+    font-size: 17px;
+    color: #404040;
+    font-weight: 500;
+    line-height: 24px;
+  }
+
+  footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-size: cover;
+    padding-bottom: 40px;
+  }
+  footer .b-right {
+    display: none;
+  }
+  footer .footer-logo {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  footer .footer-text {
+    text-align: center;
+    display: block;
+    padding-right: 0;
+    position: relative;
+    margin-bottom: 60px;
+  }
+  footer .footer-text h4 {
+    font-weight: bold;
+    font-size: 34px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  footer .footer-text a.footerBtn {
+    height: 55px;
+    color: #1e405a;
+    font-size: 20px;
+    padding: 0 40px;
+    border-radius: 12px;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    font-weight: bold;
+    justify-content: center;
+    transition: all ease 0.3s;
+    margin-bottom: 10px;
+  }
+  footer .footer-text a.footerBtn:hover {
+    background-color: #1e405a;
+    color: #fff;
+  }
+  footer .footer-text p {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+  }
+  footer .footer-text p b {
+    font-weight: bold;
+    display: block;
+    margin-top: 5px;
+  }
+  footer ul {
+    margin-bottom: 30px;
+  }
+  footer ul li {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: left;
+  }
+  footer ul li:last-child {
+    margin-bottom: 0;
+  }
+  footer ul li a {
+    font-weight: 400;
+    color: inherit;
+  }
+  footer ul li a:hover {
+    color: #fff;
+  }
+}
+@media (max-width: 575.98px) {
+  header {
+    margin-bottom: 100px;
+  }
+  header .logo {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  header ul {
+    column-gap: 10px;
+    justify-content: center;
+  }
+  header ul li a {
+    font-size: 15px;
+    margin: 0;
+  }
+
+  .main-hero .inner {
+    height: unset;
+  }
+  .main-hero .inner .content {
+    padding: 40px;
+    padding-right: 0;
+  }
+  .main-hero .inner .content h4 {
+    font-size: 24px;
+  }
+  .main-hero .inner .content p {
+    font-size: 14px;
+    line-height: 20px;
+    margin-bottom: 15px;
+  }
+  .main-hero .inner .content a.white-btn {
+    height: 45px;
+    font-size: 14px;
+  }
+  .main-hero .inner .image {
+    padding-bottom: unset;
+    background-size: cover;
+    height: 500px;
+  }
+
+  section.services h2 {
+    font-size: 54px;
+  }
+  section.services .content {
+    position: relative;
+  }
+  section.services .content .bg-text {
+    font-size: 380px;
+    color: rgba(255, 255, 255, 0.5);
+    font-weight: bold;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    position: absolute;
+    z-index: -1;
+    top: 50%;
+    left: 0;
+    right: 0;
+    transform: translateY(-50%);
+  }
+  section.services .content .row {
+    align-items: center;
+    padding-bottom: 20px;
+    margin-bottom: 20px;
+    background-image: url("../images/table-border.png");
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 30px;
+  }
+  section.services .content .row:last-child {
+    background-image: unset;
+  }
+  section.services .content .inner-text {
+    display: flex;
+    flex-direction: column;
+    margin-bottom: 30px;
+  }
+  section.services .content .inner-text h4 {
+    justify-content: start;
+    width: 100%;
+    margin: 0;
+    margin-bottom: 10px;
+    text-align: left;
+    font-size: 24px;
+    line-height: 32px;
+  }
+  section.services .content .inner-text p {
+    width: 100%;
+    line-height: 20px;
+  }
+
+  .button-area {
+    flex-direction: column;
+  }
+  .button-area a {
+    margin-bottom: 30px;
+  }
+
+  section.teams h2 {
+    font-size: 54px;
+  }
+  section.teams h2:before {
+    content: "";
+    background-image: url("../images/team_bg.png");
+    width: 226px;
+    height: 72px;
+    position: absolute;
+    z-index: -1;
+  }
+  section.teams p {
+    font-size: 16px;
+    color: #404040;
+    font-weight: 400;
+    line-height: 33px;
+  }
+  section.teams .human-list {
+    width: 100%;
+    padding: 100px 0;
+  }
+  section.teams .human {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-bottom: 50px;
+  }
+  section.teams .human img {
+    width: 180px;
+    height: 180px;
+    object-fit: unset;
+    margin-bottom: 30px;
+  }
+  section.teams .human h4 {
+    font-size: 28px;
+    font-weight: bold;
+    color: #404040;
+  }
+  section.teams .human p {
+    font-size: 24px;
+    color: #404040;
+    font-weight: 400;
+  }
+
+  section.tolsis-software h2 {
+    font-size: 54px;
+  }
+  section.tolsis-software h2:before {
+    content: "";
+    background-image: url("../images/tolsis_software.png");
+    width: 529px;
+    height: 23px;
+    bottom: 0;
+    position: absolute;
+    z-index: -1;
+  }
+  section.tolsis-software .image-container {
+    position: absolute;
+    min-height: 580px;
+  }
+  section.tolsis-software .image-container .img {
+    background-image: url("../images/leftBg.png");
+    position: absolute;
+    right: 0;
+    top: 0;
+    height: 100%;
+    width: 100vw;
+    background-repeat: no-repeat;
+    z-index: -1;
+    background-position: right center;
+    border-radius: 30px;
+  }
+  section.tolsis-software .text-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  section.tolsis-software .text-container .text-content {
+    margin-bottom: 40px;
+    padding-left: 20px;
+  }
+  section.tolsis-software .text-container .text-content:last-child {
+    margin-bottom: 0;
+  }
+  section.tolsis-software .text-container .text-content h4 {
+    font-size: 26px;
+    color: #404040;
+    font-weight: bold;
+    margin-bottom: 15px;
+  }
+  section.tolsis-software .text-container .text-content p {
+    font-size: 17px;
+    color: #404040;
+    font-weight: 500;
+    line-height: 24px;
+  }
+
+  footer {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    background-size: cover;
+    padding-bottom: 40px;
+  }
+  footer .b-right {
+    display: none;
+  }
+  footer .footer-logo {
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+    margin-bottom: 50px;
+  }
+  footer .footer-text {
+    text-align: center;
+    display: block;
+    padding-right: 0;
+    position: relative;
+    margin-bottom: 30px;
+  }
+  footer .footer-text h4 {
+    font-weight: bold;
+    font-size: 34px;
+    color: #fff;
+    margin-bottom: 20px;
+  }
+  footer .footer-text a.footerBtn {
+    height: 55px;
+    color: #1e405a;
+    font-size: 20px;
+    padding: 0 40px;
+    border-radius: 12px;
+    background-color: #fff;
+    display: inline-flex;
+    align-items: center;
+    font-weight: bold;
+    justify-content: center;
+    transition: all ease 0.3s;
+    margin-bottom: 10px;
+  }
+  footer .footer-text a.footerBtn:hover {
+    background-color: #1e405a;
+    color: #fff;
+  }
+  footer .footer-text p {
+    font-size: 20px;
+    font-weight: 500;
+    color: #fff;
+  }
+  footer .footer-text p b {
+    font-weight: bold;
+    display: block;
+    margin-top: 5px;
+  }
+  footer ul {
+    margin-bottom: 30px;
+  }
+  footer ul li {
+    font-size: 20px;
+    font-weight: bold;
+    color: #fff;
+    margin-bottom: 30px;
+    text-align: center;
+  }
+  footer ul li:last-child {
+    margin-bottom: 0;
+  }
+  footer ul li a {
+    font-weight: 400;
+    color: inherit;
+  }
+  footer ul li a:hover {
+    color: #fff;
+  }
+}
+
+/*# sourceMappingURL=responsive.css.map */
